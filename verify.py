@@ -31,7 +31,7 @@ for asset in set(page.assets):
     assert (ROOT / unquote(asset)).is_file(), f'Missing asset: {asset}'
     if Path(asset).suffix in ('.png', '.jpg', '.webp'):
         with Image.open(ROOT / asset) as image: image.verify()
-assert len(page.services) == 9 and len(set(page.services)) == 9
+assert len(page.services) == 11 and len(set(page.services)) == 11
 script = (ROOT / 'js/main.js').read_text(encoding='utf-8')
 assert '212668192422' in script and 'encodeURIComponent(message)' in script
 assert 'backTop.addEventListener' in script

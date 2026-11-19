@@ -1,0 +1,3 @@
+Tool: built-in image_gen
+Output: staircase-cleaning-hq.jpg
+Use case: photorealistic-natural. Asset type: premium cleaning-company website service photograph. A professional Moroccan cleaner in a neat navy blue polo uniform and blue gloves mopping the broad pale stone staircase and landing of a bright modern apartment building in Agadir. Elegant metal handrail, white walls, daylight through a tall window, realistic clean steps, professional mop with blue microfiber head. Landscape wide composition showing both the staircase and the cleaner at work, authentic commercial photography, crisp material detail, consistent navy blue and white palette. No text, no logos, no watermarks, no icons. High resolution.
