@@ -1,0 +1,11 @@
+{
+  "tool": "built-in image_gen",
+  "shared": "Premium commercial photography, natural daylight, navy blue and white palette, landscape 3:2, no text, logos, icons or watermark.",
+  "scenes": {
+    "pest-control": "A professional pest control technician in clean white protective coveralls, gloves and a proper respirator, carefully applying targeted treatment along the baseboard of a bright modern empty apartment with a professional yellow tank sprayer. Realistic safe professional work, no visible insects, no occupants.",
+    "rodent-control": "A professional Moroccan pest management technician in a navy blue uniform and protective gloves inspecting and positioning a closed tamper-resistant rodent bait station along an exterior building wall. No loose poison, no dead animals, tidy modern property.",
+    "gardening": "A professional Moroccan gardener in a neat dark green polo uniform and gloves trimming a lush green hedge with manual hedge shears in an elegant landscaped villa garden in Agadir. Well-kept lawn, palms, natural sunlight.",
+    "security": "A professional Moroccan security guard in a neat navy security uniform, standing confidently at the entrance of a modern residential property in Agadir. Friendly serious expression, relaxed hands, tasteful generic blank uniform, no weapons, no police insignia.",
+    "pool-maintenance": "A professional Moroccan pool maintenance worker in a navy polo uniform and cap using a long-handled pool skimmer to clean a beautiful turquoise swimming pool at a bright modern villa in Agadir. Natural daylight, sparkling water, realistic equipment and anatomy."
+  }
+}
